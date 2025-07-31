@@ -1,5 +1,4 @@
 # HarshalKhemnar
-![My Cover Image](cover-thompson.png)
 
 <h1 align="center">Hi there 👋, I am Harshal!!</h1>
 
