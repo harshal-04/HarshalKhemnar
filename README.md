@@ -4,8 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
+  <title>Harshal Khemnar Portfolio</title>
 </head>
 <body>
+
+  <!-- Top Image -->
+  <div class="top-image">
+    <img src="Screenshot 2025-08-07 140346.png" alt="Harshal Cover" style="width:100%; height:auto;">
+  </div>
+
   <header>
     <h1>Harshal Khemnar</h1>
     <p>Computer Engineering Student | Data Science & Web Development Enthusiast</p>
@@ -90,5 +97,6 @@
   <footer>
     <p>&copy; 2025 Harshal Khemnar. All rights reserved.</p>
   </footer>
+
 </body>
 </html>
