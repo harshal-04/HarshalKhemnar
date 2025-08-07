@@ -1,105 +1,84 @@
-# HarshalKhemnar
-<p align="center">
-  <img src="cover-thompson.png" alt="Cover Image" width="100%" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Harshal Khemnar - Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
 
-<h1 align="center">Hi there 👋, I am Harshal!!</h1>
+  <header class="hero">
+    <img src="assets/cover-thompson.png" alt="Cover Image" class="cover-img" />
+    <h1>Hi there 👋, I'm Harshal!</h1>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coder GIF" class="gif" />
+    <h2>Harshal Manjabapu Khemnar ✨</h2>
+    <p>Final-Year Computer Engineering Student | Web Developer | ML & Data Analytics Enthusiast</p>
+  </header>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
-</p>
+  <section class="info">
+    <h3>📍 Contact</h3>
+    <ul>
+      <li><strong>Location:</strong> Nashik, Maharashtra, India</li>
+      <li><strong>Email:</strong> <a href="mailto:harshalkhemnar9@gmail.com">harshalkhemnar9@gmail.com</a></li>
+      <li><strong>Phone:</strong> +91-7821840907</li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/harshal-khemanar-7a4a89273" target="_blank">Profile</a></li>
+      <li><strong>GitHub:</strong> <a href="https://github.com/HarshalKhemnar" target="_blank">HarshalKhemnar</a></li>
+    </ul>
+  </section>
 
-<h3 align="center">𝐇𝐀𝐑𝐒𝐇𝐀𝐋 𝐌𝐀𝐍𝐉𝐀𝐁𝐀𝐏𝐔 𝐊𝐇𝐄𝐌𝐍𝐀𝐑 ✨</h3>
-<p align="center">
-Final-Year Computer Engineering Student | Web Developer | ML & Data Analytics Enthusiast | Competitive Programmer
-</p>
+  <section>
+    <h3>🎓 Education</h3>
+    <p>B.Tech in Computer Engineering – Sanjivani College of Engineering, Kopargaon (2022–2026)</p>
+  </section>
 
----
+  <section>
+    <h3>💼 Experience</h3>
+    <p><strong>AI & Data Analytics Intern</strong> – AICTE–Shell–Edunet (Apr–May 2025)</p>
+    <ul>
+      <li>Worked on AI-based sustainable tech projects</li>
+      <li>Hands-on with Python, Power BI, ML, Green Skills</li>
+    </ul>
+  </section>
 
-📍 **Location:** Nashik, Maharashtra, India  
-📧 **Email:** [harshalkhemnar9@gmail.com](mailto:harshalkhemnar9@gmail.com)  
-📞 **Phone:** +91-7821840907  
-🔗 **LinkedIn:** [linkedin.com/in/harshal-khemanar-7a4a89273](https://www.linkedin.com/in/harshal-khemanar-7a4a89273)  
-💻 **GitHub:** [github.com/HarshalKhemnar](https://github.com/HarshalKhemnar)
+  <section>
+    <h3>💻 Projects</h3>
+    <ul>
+      <li><strong>Online Pharmacy Store:</strong> HTML, CSS, PHP, MySQL – E-commerce app with login/cart/admin</li>
+      <li><strong>Credit Risk Prediction:</strong> Python, ML, SMOTE – 85% accuracy</li>
+      <li><strong>E-Commerce Sales Dashboard:</strong> Power BI, DAX – Dynamic business KPIs</li>
+    </ul>
+  </section>
 
----
+  <section>
+    <h3>🏆 Certifications</h3>
+    <ul>
+      <li>Oracle AI Vector Search Certified</li>
+      <li>Python – Infosys Springboard</li>
+      <li>Cloud Computing – NPTEL IIT Kharagpur</li>
+      <li>Industry 4.0 & IIoT – NPTEL IIT Kharagpur</li>
+    </ul>
+  </section>
 
-### 🎓 Education:
-- **B.Tech in Computer Science and Engineering** – Sanjivani College of Engineering, Kopargaon (2022–2026)
+  <section>
+    <h3>🏅 Achievements</h3>
+    <ul>
+      <li>Patented: “Fast Fast Water Heater Bucket”</li>
+      <li>Elite NPTEL – Industry 4.0</li>
+      <li>TATA Crucible Quiz Finalist</li>
+      <li>National Hackathon Participant</li>
+    </ul>
+  </section>
 
----
+  <section>
+    <h3>⚙️ Skills</h3>
+    <p>Python, Java, C++, HTML, CSS, JS, React, Node.js, MongoDB, Firebase, SQL, Power BI, Git, Excel</p>
+  </section>
 
-### 💼 Experience:
-**AI & Data Analytics Intern**  
-*AICTE – Shell – Edunet Foundation (Apr 2025 – May 2025)*  
-- Worked on real-world sustainable tech and AI-based projects  
-- Hands-on with Python, Power BI, Machine Learning, and Green Skills  
+  <footer>
+    <p>© 2025 Harshal Khemnar | Designed with ❤️</p>
+  </footer>
 
----
-
-### 💻 Projects:
-
-#### 📦 Online Pharmacy Store Web Application  
-**Domain:** Web Development (E-commerce)  
-**Tech:** HTML, CSS, PHP, MySQL  
-- Developed a complete e-commerce web app with login, cart, and admin panel  
-- Secured server-side logic for transactions and inventory  
-🔗 *Project Link (Add your link here)*
-
----
-
-#### 💳 Credit Risk Prediction  
-**Domain:** Machine Learning (Finance)  
-**Tech:** Python, Scikit-learn, Pandas, SMOTE  
-- Built a classification model to predict credit risk with 85% accuracy  
-- Applied SMOTE, cross-validation, and data preprocessing  
-🔗 *Project Link (Add your link here)*
-
----
-
-#### 📊 E-Commerce Sales Dashboard  
-**Domain:** Data Analytics  
-**Tech:** Power BI, DAX, Power Query  
-- Created dynamic dashboard for business KPIs  
-- Interactive visuals using slicers and calculated relationships  
-🔗 *Project Link (Add your link here)*
-
----
-
-### 🏆 Certifications:
-- Oracle AI Vector Search Certified – Oracle (Mar 2025)  
-- Learning Python – Infosys Springboard  
-- Cloud Computing – NPTEL, IIT Kharagpur (Jul–Oct 2024)  
-- Industry 4.0 & IIoT – NPTEL, IIT Kharagpur
-
----
-
-### 🏅 Achievements:
-- Contributed to patented innovation – **“Fast Fast Water Heater Bucket”**  
-- Elite Certification – **NPTEL Industry 4.0 & IIoT**  
-- National Level Hackathon Participant  
-- TATA Crucible Quiz 2024 Finalist
-
----
-
-### ⚙️ Skills & Interests:
-- **Languages:** Python, Java, C++, JavaScript, HTML, CSS  
-- **Frameworks:** React.js, Node.js  
-- **Databases:** MongoDB, Firebase, MySQL, SQL  
-- **Tools:** Power BI, Microsoft 360, Git, SEO, Excel  
-- **Others:** Logo Design, Content Creation, Teamwork, Leadership  
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshalKhemnar&show_icons=true&theme=github_dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalKhemnar&theme=github-dark" width="48%">
-</p>
-
----
-
-### 🙋‍♂️ Profile Summary:
-Final-year Computer Engineering student, graduating in 2026, with a strong foundation in Python, SQL, Excel, and Power BI. Skilled in dashboard creation, machine learning, and solving business problems using data. Actively looking to grow in roles involving analytics, product, or operations in a fast-paced, impact-driven environment.
-
----
+  <script src="script.js"></script>
+</body>
+</html>
